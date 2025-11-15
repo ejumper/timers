@@ -4,5 +4,5 @@ compatibility_date = "2024-11-01"
 
 [[kv_namespaces]]
 binding = "TIMERS"
-id = "dummy-id"
-preview_id = "dummy-preview-id"
+id = "4eefe72ce86546c4bbfed9b9367d59a4"
+preview_id = "4eefe72ce86546c4bbfed9b9367d59a4"
