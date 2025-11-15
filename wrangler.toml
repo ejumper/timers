@@ -1,0 +1,8 @@
+name = "timer-worker"
+main = "src/index.ts"
+compatibility_date = "2024-11-01"
+
+[kv_namespaces]
+bindings = [
+  { binding = "TIMERS", id = "dummy-id", preview_id = "dummy-preview-id" }
+]
