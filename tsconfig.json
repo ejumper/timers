@@ -6,8 +6,8 @@
       "strict": true,
       "esModuleInterop": true,
       "skipLibCheck": true,
-      "types": []
-      "outDir": "dist",
+      "types": [],
+      "outDir": "dist"
     },
     "include": ["src"]
   }
