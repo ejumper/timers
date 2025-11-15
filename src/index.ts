@@ -1,5 +1,5 @@
 export interface Env {
-    TIMERS: KVNamespace;
+    TIMERS: any;
   }
   
   interface Timer {
