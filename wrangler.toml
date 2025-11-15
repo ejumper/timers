@@ -1,8 +1,10 @@
-name = "timer-worker"
+name = "timers-kv"
 main = "src/index.ts"
 compatibility_date = "2024-11-01"
+
+[build]
+command = "npm run build"
 
 [[kv_namespaces]]
 binding = "TIMERS"
 id = "4eefe72ce86546c4bbfed9b9367d59a4"
-preview_id = "4eefe72ce86546c4bbfed9b9367d59a4"
